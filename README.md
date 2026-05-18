@@ -65,7 +65,8 @@ Ou instale este:
 bash
 pip install requests beautifulsoup4 pandas
 
-🚀 COMO USAR 
+🚀 ## COMO USAR:
+
 Executar o script principal
 bash
 python scraper.py
