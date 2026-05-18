@@ -48,6 +48,7 @@ Sem janelas:
 
 bash
 venv\Scripts\activate
+
 Sem macOS/Linux:
 
 bash
