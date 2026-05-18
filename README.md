@@ -38,8 +38,13 @@ Os dados coletados são salvos em um arquivo CSV para análise posterior.
 bash
 python -m venv venv
 
+
+
 3. Ative o ambiente virtual
 Sem janelas:
+
+
+
 
 bash
 venv\Scripts\activate
@@ -47,6 +52,9 @@ Sem macOS/Linux:
 
 bash
 source venv/bin/activate
+
+
+
 
 4. Instale as marcações
 bash
@@ -62,12 +70,19 @@ bash
 python scraper.py
 Aguarde a coleta de dados
 
+
+
 O script fará requisições ao site e coletará os dados
 Uma barra de progresso mostrará o status da coleta
 Abra o arquivo gerado
 
+
+
+
 Os dados serão salvos emlivros_test.csv
 Você pode abrir o arquivo com Excel, Google Sheets ou qualquer editor de texto
+
+
 
 📄 Estrutura do Arquivo CSV
 O arquivo livros_test.csvgerado contém as seguintes colunas:
@@ -76,6 +91,8 @@ Nome do produto	Preço	Descrição
 Uma Luz no Sótão	£ 51,77	"É difícil imaginar um mundo sem 'Uma Luz no Sótão'..."
 Virando o Veludo	£ 53,74	"Tipping the Velvet é, em sua essência, uma história de amor..."
 ...	...	...
+
+
 🔧 Configurações
 Você pode ajustar as seguintes configurações no script:
 
