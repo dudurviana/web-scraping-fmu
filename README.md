@@ -65,7 +65,7 @@ Ou instale este:
 bash
 pip install requests beautifulsoup4 pandas
 
-🚀 ## COMO USAR:
+🚀 COMO USAR:
 
 Executar o script principal
 bash
@@ -87,6 +87,8 @@ Você pode abrir o arquivo com Excel, Google Sheets ou qualquer editor de texto
 
 
 📄 Estrutura do Arquivo CSV
+
+
 O arquivo livros_test.csvgerado contém as seguintes colunas:
 
 Nome do produto	Preço	Descrição
@@ -96,6 +98,8 @@ Virando o Veludo	£ 53,74	"Tipping the Velvet é, em sua essência, uma históri
 
 
 🔧 Configurações
+
+
 Você pode ajustar as seguintes configurações no script:
 
 Limite de Produtos
