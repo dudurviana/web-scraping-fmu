@@ -18,7 +18,6 @@ Os dados coletados são salvos em um arquivo CSV para análise posterior.
 ✅ Tratamento robusto de erros e exceções  
 ✅ Suporte a URLs relativas e absolutas  
 ✅ Exportação automática para CSV
-
 ✅ Limite configurável de produtos coletados  
 
 ## 🛠️ Tecnologias Utilizadas
