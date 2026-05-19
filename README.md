@@ -165,18 +165,3 @@ Crie um branch para seu feature ( git checkout -b feature/MinhaFeature)
 Comprometa suas mudanças ( git commit -m 'Adiciona MinhaFeature')
 Empurre para um ramo ( git push origin feature/MinhaFeature)
 Abrir um Pull Request
-
-❓ Perguntas frequentes
-P: Preciso de permissão para fazer scraping do Books to Scrape?
-R: Não, o Books to Scrape é um site criado especificamente para a prática de web scraping.
-
-P: Quantos livros posso encontrar?
-R: Você pode alterar o limite na linha if len(livros) >= 30:do script.
-
-P: O script quebra se o site mudar sua estrutura HTML?
-R: Sim, você precisará atualizar os seletores CSS no código.
-
-P: Como adicionar mais colunas de dados?
-R: Identifique uma tag HTML correspondente no site e adicione uma nova linha semelhante às linhas 24-26.
-git clone https://github.com/dudurvianacomo/web-scraping-fmu.git
-cd web-scraping-fmu
