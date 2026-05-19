@@ -52,7 +52,7 @@ bash
 python scraper.py
 
 ### 👨‍💻 Autor
-Eduardo Viana, Vinicius Galoa, Manuella Santana 
+Eduardo Viana, Vinicius Galoa, Manoella Santana 
 
 GitHub: @dudurviana
 ### 📝 Licença
