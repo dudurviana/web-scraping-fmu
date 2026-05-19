@@ -17,7 +17,7 @@ Os dados coletados são salvos em um arquivo CSV para análise posterior.
 ✅ Coleta de informações detalhadas (título, preço e descrição)  
 ✅ Tratamento robusto de erros e exceções  
 ✅ Suporte a URLs relativas e absolutas  
-✅ Exportação automática para CSV com encoding UTF-8  
+✅ Exportação automática para CSV
 ✅ Limite configurável de produtos coletados  
 
 ## 🛠️ Tecnologias Utilizadas
