@@ -43,15 +43,15 @@ Ou instale este:
 bash
 pip install requests beautifulsoup4 pandas
 
-🚀 ### COMO USAR:
+### 🚀 COMO USAR:
 
 Executar o script principal
 bash
 python scraper.py
 
-👨‍💻 ### Autor
+### 👨‍💻 Autor
 Eduardo Viana, Vinicius Galoa, Manuella Santana 
 
 GitHub: @dudurviana
-📝  ### Licença
+### 📝 Licença
 Este projeto é fornecido para fins educacionais. Use livremente e respeite os termos de serviço dos sites que você faz scraping.
