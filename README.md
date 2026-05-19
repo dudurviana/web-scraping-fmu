@@ -115,11 +115,15 @@ Nome do Arquivo de lid
 Python
 df.to_csv('livros_test.csv', ...) # Altere o nome do arquivo
 
-📊 Exemplo de sorteio
+📊 Exemplo de sorteio:
+
+
 Código
 Sucesso! 30 livros coletados e salvos em "livros_test.csv"!
 
-🐛 Tratamento de grupos
+🐛 Tratamento de grupos:
+
+
 O script possui tratamento robusto de erros:
 
 AttributeError : Pula itens com estrutura HTML inesperada
