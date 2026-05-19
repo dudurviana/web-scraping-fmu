@@ -40,6 +40,8 @@ Os dados coletados são salvos em um arquivo CSV para análise posterior.
 - **pip install -r requirements.txt**
 Ou instale este:
 
+
+
 - **bash**
 - **pip install requests beautifulsoup4 pandas**
 
