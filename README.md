@@ -48,8 +48,10 @@ Ou instale este:
 ### 🚀 COMO USAR:
 
 - **Executar o script principal**
-bash
-python scraper.py
+
+_ **bash**
+
+_ **python scraper.py**
 
 ### 👨‍💻 Autor
 - **Eduardo Viana, Vinicius Galoa, Manoella Santana**
