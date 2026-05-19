@@ -49,9 +49,9 @@ Ou instale este:
 
 - **Executar o script principal**
 
-_ **bash**
+- **bash**
 
-_ **python scraper.py**
+- **python scraper.py**
 
 ### 👨‍💻 Autor
 - **Eduardo Viana, Vinicius Galoa, Manoella Santana**
