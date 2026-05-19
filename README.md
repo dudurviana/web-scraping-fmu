@@ -151,7 +151,7 @@ Documentação Pandas
 Ética na Extração de Dados da Web
 
 👨‍💻 Autor
-Eduardo viana
+Eduardo Viana, Vinicius Galoa, Manuella Santana 
 
 GitHub: @dudurviana
 📝 Licença
