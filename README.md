@@ -47,13 +47,13 @@ Ou instale este:
 
 ### 🚀 COMO USAR:
 
-Executar o script principal
+- **Executar o script principal**
 bash
 python scraper.py
 
 ### 👨‍💻 Autor
-Eduardo Viana, Vinicius Galoa, Manoella Santana 
+- **Eduardo Viana, Vinicius Galoa, Manoella Santana**
 
 GitHub: @dudurviana
 ### 📝 Licença
-Este projeto é fornecido para fins educacionais. Use livremente e respeite os termos de serviço dos sites que você faz scraping.
+- **Este projeto é fornecido para fins educacionais. Use livremente e respeite os termos de serviço dos sites que você faz scraping.**
