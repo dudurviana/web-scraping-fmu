@@ -38,8 +38,8 @@ Os dados coletados são salvos em um arquivo CSV para análise posterior.
 ### Instale as marcações
 - **bash**
 - **pip install -r requirements.txt**
-Ou instale este:
 
+Ou instale este:
 
 
 - **bash**
