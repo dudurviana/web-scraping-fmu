@@ -36,12 +36,12 @@ Os dados coletados são salvos em um arquivo CSV para análise posterior.
 - pip (gerenciador de pacotes Python)
 
 ### Instale as marcações
-bash
-pip install -r requirements.txt
+- **bash**
+- **pip install -r requirements.txt**
 Ou instale este:
 
-bash
-pip install requests beautifulsoup4 pandas
+- **bash**
+- **pip install requests beautifulsoup4 pandas**
 
 ### 🚀 COMO USAR:
 
