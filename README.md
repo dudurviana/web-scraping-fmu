@@ -13,12 +13,14 @@ Os dados coletados são salvos em um arquivo CSV para análise posterior.
 
 ## 🎯 Funcionalidades
 
+
 ✅ Raspagem de dados de múltiplas páginas do site Books to Scrape  
 ✅ Coleta de informações detalhadas (título, preço e descrição)  
 ✅ Tratamento robusto de erros e exceções  
 ✅ Suporte a URLs relativas e absolutas  
-✅ Exportação automática para CSV
-                                 ✅ Limite configurável de produtos coletados  
+✅ Exportação automática para CSV  
+
+✅ Limite configurável de produtos coletados
 
 ## 🛠️ Tecnologias Utilizadas
 
