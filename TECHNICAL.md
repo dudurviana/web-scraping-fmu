@@ -41,29 +41,6 @@ url = 'https://books.toscrape.com/'  # Altere conforme necessário
 
 # Nome do arquivo
 df.to_csv('livros_test.csv', ...)  # Altere o nome
-
-
-
-
-
-
-
-
-
-⚠️ Problemas Comuns & Soluções
-Problema	Causa	Solução
-AttributeError	HTML diferente	Atualizar seletores CSS
-ConnectionError	Sem internet	Verificar conexão
-Empty CSV	Nenhum livro encontrado	Verificar seletores
-Timeout	Site lento	Aumentar timeout do requests
-
-🚀 Otimizações Possíveis
-Adicionar delay entre requisições: time.sleep(1)
-Usar sessões: requests.Session()
-Adicionar headers customizados
-Implementar cache para URLs já visitadas
-Usar multi-threading para requisições paralelas
-
 📈 Performance
 Tempo por livro: ~500ms (requisição + parse)
 30 livros: ~15 segundos
