@@ -43,7 +43,7 @@ url = 'https://books.toscrape.com/'  # Altere conforme necessário
 df.to_csv('livros_test.csv', ...)  # Altere o nome
 
 
-⚠️ ## 𝗣𝗿𝗼𝗯𝗹𝗲𝗺𝗮𝘀 𝗲 𝗦𝗼𝗹𝘂çõ𝗲𝘀 𝗖𝗼𝗺𝘂𝗻𝘀
+⚠️ 𝗣𝗿𝗼𝗯𝗹𝗲𝗺𝗮𝘀 𝗲 𝗦𝗼𝗹𝘂çõ𝗲𝘀 𝗖𝗼𝗺𝘂𝗻𝘀
 
 Problema	      Causa	        Solução
 AttributeError	     HTML diferente	        Atualizar seletores CSS
