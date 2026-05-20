@@ -47,3 +47,20 @@ Tempo por livro: ~500ms (requisição + parse)
 Limite recomendado: 50 produtos por execução
 
 
+
+
+
+
+
+
+
+
+
+
+
+⚠️ Problemas Comuns & Soluções
+Problema	Causa	Solução
+AttributeError	HTML diferente	Atualizar seletores CSS
+ConnectionError	Sem internet	Verificar conexão
+Empty CSV	Nenhum livro encontrado	Verificar seletores
+Timeout	Site lento	Aumentar timeout do requests
