@@ -45,7 +45,7 @@ df.to_csv('livros_test.csv', ...)  # Altere o nome
 
 
 
-## 📈 Performance ##
+- ** 📈 Performance ** 
 Tempo por livro: ~500ms (requisição + parse)
 30 livros: ~15 segundos
 Limite recomendado: 50 produtos por execução
