@@ -8,7 +8,7 @@
 ## Passos de Instalação
 
 ### 1. Clone o Repositório
-git clone https://github.com/dudurvianacomo/web-scraping-fmu.git
+- git clone https://github.com/dudurvianacomo/web-scraping-fmu.git
 cd web-scraping-fmu
 
 ### 2. Crie Ambiente Virtual
@@ -16,7 +16,7 @@ cd web-scraping-fmu
 
 ### 3. Ative o Ambiente Virtual
 
-Windows:
+- Windows:
 venv\Scripts\activate
 
 macOS/Linux:
