@@ -43,7 +43,7 @@ url = 'https://books.toscrape.com/'  # Altere conforme necessário
 df.to_csv('livros_test.csv', ...)  # Altere o nome
 
 
-🚀 Otimizações Possíveis
+🚀 𝗢𝘁𝗶𝗺𝗶𝘇𝗮çõ𝗲𝘀 𝗣𝗼𝘀𝘀í𝘃𝗲𝗶𝘀
 Adicionar delay entre requisições: time.sleep(1)
 Usar sessões: requests.Session()
 Adicionar headers customizados
@@ -52,7 +52,7 @@ Usar multi-threading para requisições paralelas
 
 
 
-📈 Performance
+📈 𝗣𝗲𝗿𝗳𝗼𝗿𝗺𝗮𝗻𝗰𝗲
 Tempo por livro: ~500ms (requisição + parse)
 30 livros: ~15 segundos
 Limite recomendado: 50 produtos por execução
