@@ -44,12 +44,11 @@ df.to_csv('livros_test.csv', ...)  # Altere o nome
 
 ⚠️ 𝗣𝗿𝗼𝗯𝗹𝗲𝗺𝗮𝘀 𝗖𝗼𝗺𝘂𝗻𝘀 & 𝗦𝗼𝗹𝘂çõ𝗲𝘀
 
-| Problema | Causa | Solução | 
-|------|---------|-----|
-| AttributeError | `h3.a['title']` |
-| ConnectionError | `p.price_color` | `<p>` |
-| Empty CSV | `h3.a['href']` | `<a>` |
-| Timeout | `div#product_description` | `<div>` |
+Problema	Causa	Solução
+AttributeError	HTML diferente	Atualizar seletores CSS
+ConnectionError	Sem internet	Verificar conexão
+Empty CSV	Nenhum livro encontrado	Verificar seletores
+Timeout	Site lento	Aumentar timeout do requests
 
 
 🚀 𝗢𝘁𝗶𝗺𝗶𝘇𝗮çõ𝗲𝘀 𝗣𝗼𝘀𝘀í𝘃𝗲𝗶𝘀
