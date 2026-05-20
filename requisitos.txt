@@ -1,14 +1,15 @@
 # Web Scraping FMU - Requirements
-# Dependências do projeto
 
-# HTTP Client - Para fazer requisições ao site
+## Dependências do projeto
+
+### HTTP Client - Para fazer requisições ao site
 requests==2.28.0  # Versão estável
 requests==2.31.0  # Versão nova
 
-# HTML Parser - Para extrair dados do HTML
+### HTML Parser - Para extrair dados do HTML
 beautifulsoup4==4.11.0  # Versão estável
 beautifulsoup4==4.12.2  # Versão nova
 
-# Data Processing - Para organizar e exportar dados
+### Data Processing - Para organizar e exportar dados
 pandas==1.5.0  # Versão estável
 pandas==2.1.1  # Versão nova
