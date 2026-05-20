@@ -43,16 +43,13 @@ url = 'https://books.toscrape.com/'  # Altere conforme necessário
 df.to_csv('livros_test.csv', ...)  # Altere o nome
 
 
+⚠️ 𝗣𝗿𝗼𝗯𝗹𝗲𝗺𝗮𝘀 𝗲 𝗦𝗼𝗹𝘂çõ𝗲𝘀 𝗖𝗼𝗺𝘂𝗻𝘀
 
-
-- ** 📈 Performance ** 
-Tempo por livro: ~500ms (requisição + parse)
-30 livros: ~15 segundos
-Limite recomendado: 50 produtos por execução
-
-
-
-
+Problema	      Causa	        Solução
+AttributeError	     HTML diferente	        Atualizar seletores CSS
+ConnectionError	    Sem internet	         Verificar conexão
+Empty CSV	Nenhum    livro encontrado	Verificar seletores
+Timeout	Site lento	Aumentar timeout do requests
 
 
 
