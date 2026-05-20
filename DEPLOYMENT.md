@@ -12,7 +12,7 @@ git clone https://github.com/dudurvianacomo/web-scraping-fmu.git
 cd web-scraping-fmu
 
 ### 2. Crie Ambiente Virtual
-python -m venv venv
+- python -m venv venv
 
 ### 3. Ative o Ambiente Virtual
 
