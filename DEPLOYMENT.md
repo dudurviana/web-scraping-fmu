@@ -19,17 +19,17 @@ cd web-scraping-fmu
 - Windows:
 venv\Scripts\activate
 
-macOS/Linux:
+- macOS/Linux:
 source venv/bin/activate
 
 ### 4. Instale Dependências
-pip install -r requirements.txt
+- pip install -r requirements.txt
 
 ### 5. Execute o Script
-python scraper.py
+- python scraper.py
 
 ### 6. Verifique o Resultado
-ls livros_test.csv
+- ls livros_test.csv
 
 ## Possíveis Problemas
 - ModuleNotFoundError: Execute pip install -r requirements.txt
