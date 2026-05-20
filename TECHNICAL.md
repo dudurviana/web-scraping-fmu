@@ -1,3 +1,9 @@
+# TECHNICAL.md - Documentação Técnica
+
+## 🏗️ Arquitetura do Scraper
+
+
+
 
 ## 🔍 Seletores HTML Utilizados
 
