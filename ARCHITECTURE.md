@@ -22,7 +22,7 @@
 
 | Elemento | Seletor CSS | Função |
 |----------|-------------|--------|
-| Livro | `.product_pod` | Container do livro |
+| Livro | `.product_pod` | Conteúdo do livro |
 | Título | `h3 > a` | Nome do livro |
 | Preço | `.price_color` | Valor em libras |
 | Descrição | `.product_description` | Texto descritivo |
